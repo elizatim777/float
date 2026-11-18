@@ -7,7 +7,7 @@
 }
 
 img {
-    width: 50px;
+    width: 70px;
 }
 
 #w1 {
@@ -17,5 +17,15 @@ img {
 }
 
 #w2 {
+    float: left;
+}
+
+#e1 {
+    width: 400px;
+    border: 1px solid red;
+    text-align: justify;
+}
+
+#e2 {
     float: left;
 }
