@@ -237,3 +237,21 @@ img {
 #h2 {
     float: right;
 }
+
+#j1 {
+    margin-top: 100px;
+    border: 1px solid red;
+}
+
+#j2 {
+    float: right;
+}
+
+#k1 {
+    margin-top: 100px;
+    border: 1px solid red;
+}
+
+#k2 {
+    float: left;
+}
