@@ -29,3 +29,17 @@ img {
 #e2 {
     float: left;
 }
+
+#r1 {
+    width: 400px;
+    border: 1px solid red;
+    text-align: justify;
+}
+
+#r2 {
+    float: left;
+}
+
+#r3 {
+    margin-left: 30px;
+}
