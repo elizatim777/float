@@ -267,3 +267,16 @@ img {
 	height: 100px;
 	border: 1px solid green;
 }
+
+#z1 {
+    margin-top: 100px;
+    border: 1px solid red;
+    text-align: justify;
+}
+
+#z2 {
+    width: 200px;
+	height: 100px;
+	border: 1px solid green;
+    float: left;
+}
