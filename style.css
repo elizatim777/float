@@ -227,3 +227,13 @@ img {
 #g2 {
     float: right;
 }
+
+#h1 {
+    margin-top: 100px;
+    border: 1px solid red;
+    height: 100px;
+}
+
+#h2 {
+    float: right;
+}
