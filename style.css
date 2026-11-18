@@ -218,3 +218,12 @@ img {
 #f2 {
     float: left;
 }
+
+#g1 {
+    margin-top: 100px;
+    border: 1px solid red;
+}
+
+#g2 {
+    float: right;
+}
