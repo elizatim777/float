@@ -187,3 +187,21 @@ img {
 #a4 {
 	border: 1px solid green;
 }
+
+#s1 {
+    border: 1px solid red;
+    text-align: justify;
+}
+
+#s2 {
+    float: right;
+    opacity: 0.5;
+}
+
+#s3 {
+	border: 1px solid green;
+}
+
+#s4 {
+	border: 1px solid green;
+}
