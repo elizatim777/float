@@ -169,3 +169,21 @@ img {
 #p4 {
 	border: 1px solid green;
 }
+
+#a1 {
+    border: 1px solid red;
+    text-align: justify;
+}
+
+#a2 {
+    float: right;
+    opacity: 0.5;
+}
+
+#a3 {
+	border: 1px solid green;
+}
+
+#a4 {
+	border: 1px solid green;
+}
