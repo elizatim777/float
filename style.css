@@ -128,3 +128,26 @@ img {
 	border: 1px solid green;
     padding-left: 30px;
 }
+
+#o1 {
+    width: 400px;
+    border: 1px solid red;
+    text-align: justify;
+}
+
+#o2 {
+    float: left;
+    opacity: 0.5;
+}
+
+#o3 {
+    margin-left: 30px;
+	border: 1px solid green;
+    padding-left: 30px;
+}
+
+#o4 {
+    margin-left: 30px;
+	border: 1px solid green;
+    padding-left: 30px;
+}
