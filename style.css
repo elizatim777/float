@@ -294,3 +294,16 @@ img {
     float: right;
     margin-top: 35px;
 }
+
+#c1 {
+    margin-top: 100px;
+    border: 1px solid red;
+	text-align: justify;
+}
+
+#c2 {
+    float: left;
+	width: 200px;
+	height: 100px;
+	border: 1px solid green;
+}
