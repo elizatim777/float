@@ -1,0 +1,21 @@
+#q2 {
+    float: left;
+}
+
+#q3 {
+    float: right;
+}
+
+img {
+    width: 50px;
+}
+
+#w1 {
+    width: 400px;
+    border: 1px solid red;
+    text-align: justify;
+}
+
+#w2 {
+    float: left;
+}
