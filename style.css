@@ -210,3 +210,11 @@ img {
     margin-top: 90px;
     border: 1px solid red;
 }
+
+#f1 {
+    border: 1px solid red;
+}
+
+#f2 {
+    float: left;
+}
