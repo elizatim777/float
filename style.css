@@ -43,3 +43,23 @@ img {
 #r3 {
     margin-left: 30px;
 }
+
+#t1 {
+    width: 400px;
+    border: 1px solid red;
+    text-align: justify;
+}
+
+#t2 {
+    float: left;
+}
+
+#t3 {
+    margin-left: 30px;
+	border: 1px solid green;
+}
+
+#t4 {
+    margin-left: 30px;
+	border: 1px solid green;
+}
